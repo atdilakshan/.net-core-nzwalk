@@ -2,6 +2,8 @@
 
 ## .net core 6.0 sample project
 
+### Software Architecture Pattern: Monolithic
+
 ### Functions
 #### 1. CRUD operation
 #### 2. Authentication (JWT) and Authorization
